@@ -1,4 +1,6 @@
 # finnance_app
+<img width="1366" height="768" alt="screenshoot png" src="https://github.com/user-attachments/assets/afb8e4dc-a88a-40d2-814a-51ee4cdb1523" />
+
 
 A new Flutter project.
 
